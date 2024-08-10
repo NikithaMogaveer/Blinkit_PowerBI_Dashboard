@@ -97,7 +97,7 @@ All Metrics by Outlet Type: Matrix Card
 ## Interactive Features
 Slicers: Enable detailed analysis by outlet size, outlet type, and item type even more.
 
-## Dashboard Preview
+## Dashboard Overview
 ![This is how the dashboard looks like.](Dashboard_image.png)
 
 ## Conclusion
