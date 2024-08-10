@@ -97,6 +97,9 @@ All Metrics by Outlet Type: Matrix Card
 ## Interactive Features
 Slicers: Enable detailed analysis by outlet size, outlet type, and item type even more.
 
+## Dashboard Preview
+![This is how the dashboard looks like.]("C:\Users\HP\Pictures\Screenshots\Screenshot 2024-08-10 163159.png")
+
 ## Conclusion
 The analysis highlights the importance of outlet size, location, and product type in driving sales. Medium-sized outlets and Tier 3 locations are particularly effective at generating revenue. Low-fat products are preferred, and certain item types, like Fruits and Vegetables are preffered more. These insights can guide strategies for optimizing sales performance, inventory management, and market positioning.
 
