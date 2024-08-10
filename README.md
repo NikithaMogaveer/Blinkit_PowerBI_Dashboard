@@ -1,9 +1,9 @@
 # Blinkit_PowerBI_Dashboard
-Project Overview  
+## Project Overview  
 
 This Power BI project provides a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard leverages various Key Performance Indicators (KPIs) and visualizations to uncover actionable insights, identify trends, and optimize business strategies.
 
-# Project Steps:
+## Project Steps:
 1. Requirement Gathering / Business Requirements
 2. Data Walkthrough
 3. Data Connection
@@ -16,18 +16,18 @@ This Power BI project provides a comprehensive analysis of Blinkit's sales perfo
 10. Dashboard / Report Development
 11. Insights Generation
 
-# Business Requirements:
+## Business Requirements:
 The objective of this project is to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. 
 
-# The analysis focuses on the following KPIs and visualizations:
+### The analysis focuses on the following KPIs and visualizations:
 
-# KPI Requirements
--Total Sales
--Average Sales
--Number of Items
--Average Rating
-
-# Chart Requirements
+#### KPI Requirements
+- Total Sales
+- Average Sales
+- Number of Items
+- Average Rating
+  
+#### Chart Requirements
 -Total Sales by Fat Content
 -Total Sales by Item Type
 -Fat Content by Outlet for Total Sales
