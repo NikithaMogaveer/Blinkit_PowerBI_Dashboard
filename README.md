@@ -43,7 +43,7 @@ The objective of this project is to analyze Blinkit's sales performance, custome
 - Number of Items: 8,523
 - Average Rating: 3.9
   
-#### 1. Sales Performance Trends:
+#### 1. Sales Performance Trends
 - Peak Sales: Highest total sales of $205k occurred in 2018, indicating a strong performance year.
 - Lowest Sales: The lowest sales of $78k were observed in 2011, suggesting potential market challenges during that period.
 
