@@ -3,17 +3,17 @@ Project Overview
 This Power BI project provides a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution. The dashboard leverages various Key Performance Indicators (KPIs) and visualizations to uncover actionable insights, identify trends, and optimize business strategies.
 
 # Project Steps:
-Requirement Gathering / Business Requirements
-Data Walkthrough
-Data Connection
-Data Cleaning / Quality Check
-Data Modeling
-Data Processing
-DAX Calculations
-Dashboard Layouting
-Charts Development and Formatting
-Dashboard / Report Development
-Insights Generation
+-Requirement Gathering / Business Requirements
+-Data Walkthrough
+-Data Connection
+-Data Cleaning / Quality Check
+-Data Modeling
+-Data Processing
+-DAX Calculations
+-Dashboard Layouting
+-Charts Development and Formatting
+-Dashboard / Report Development
+-Insights Generation
 
 # Business Requirements:
 The objective of this project is to analyze Blinkit's sales performance, customer satisfaction, and inventory distribution. 
@@ -21,30 +21,35 @@ The objective of this project is to analyze Blinkit's sales performance, custome
 # The analysis focuses on the following KPIs and visualizations:
 
 # KPI Requirements
-Total Sales: $1.20M
-Average Sales: $141
-Number of Items: 8,523
-Average Rating: 3.9
+-Total Sales
+-Average Sales
+-Number of Items
+-Average Rating
 
 # Chart Requirements
-Total Sales by Fat Content
-Total Sales by Item Type
-Fat Content by Outlet for Total Sales
-Total Sales by Outlet Establishment
-Sales by Outlet Size
-Sales by Outlet Location
-All Metrics by Outlet Type
+-Total Sales by Fat Content
+-Total Sales by Item Type
+-Fat Content by Outlet for Total Sales
+-Total Sales by Outlet Establishment
+-Sales by Outlet Size
+-Sales by Outlet Location
+-All Metrics by Outlet Type
 
 # Key Insights
-1. Sales Performance Trends
-Peak Sales: Highest total sales of $205k occurred in 2018, indicating a strong performance year.
-Lowest Sales: The lowest sales of $78k were observed in 2011, suggesting potential market challenges during that period.
+-Total Sales: $1.20M
+-Average Sales: $141
+-Number of Items: 8,523
+-Average Rating: 3.9
+
+##1. Sales Performance Trends
+-Peak Sales: Highest total sales of $205k occurred in 2018, indicating a strong performance year.
+-Lowest Sales: The lowest sales of $78k were observed in 2011, suggesting potential market challenges during that period.
 2. Outlet Size Impact
-Medium-Sized Outlets: Achieved the highest total sales of $507.90k, indicating they are optimal for revenue generation.
-Large Outlets: Reported the lowest total sales of $248.99k, suggesting potential inefficiencies or underperformance.
+-Medium-Sized Outlets: Achieved the highest total sales of $507.90k, indicating they are optimal for revenue generation.
+-Large Outlets: Reported the lowest total sales of $248.99k, suggesting potential inefficiencies or underperformance.
 3. Outlet Location Analysis
-Tier 3 Locations: Generated the highest total sales of $472.13k, reflecting a strong market presence and potentially favorable conditions.
-Tier 1 Locations: Had the lowest total sales of $336.40k, indicating possible market challenges or less effective strategies.
+-Tier 3 Locations: Generated the highest total sales of $472.13k, reflecting a strong market presence and potentially favorable conditions.
+-Tier 1 Locations: Had the lowest total sales of $336.40k, indicating possible market challenges or less effective strategies.
 4. Outlet Type Performance
 Supermarket Type 1: Recorded the highest total sales of $787.55k, indicating strong performance and high item visibility.
 Supermarket Type 3: Achieved the lowest total sales of $130.71k, which might reflect issues with visibility or market positioning.
