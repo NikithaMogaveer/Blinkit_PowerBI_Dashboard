@@ -99,7 +99,7 @@ Slicers: Enable detailed analysis by outlet size, outlet type, and item type eve
 
 ## Dashboard Overview
 ![This is how the dashboard looks like.](Dashboard_image.png)
-You can download and view the project demonstration video by [clicking here](https://github.com/NikithaMogaveer/Blinkit_PowerBI_Dashboard/releases/download/untagged-2aba09dc906cf5064bc1/Blinkit_clip.1.mp4)
+You can download and view the project demonstration video by [clicking here](Blinkit_clip.1.mp4)
 
 ## Conclusion
 The analysis highlights the importance of outlet size, location, and product type in driving sales. Medium-sized outlets and Tier 3 locations are particularly effective at generating revenue. Low-fat products are preferred, and certain item types, like Fruits and Vegetables are preffered more. These insights can guide strategies for optimizing sales performance, inventory management, and market positioning.
