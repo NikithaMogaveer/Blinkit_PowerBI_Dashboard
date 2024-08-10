@@ -44,18 +44,19 @@ The objective of this project is to analyze Blinkit's sales performance, custome
 - Average Rating: 3.9
   
 1. Sales Performance Trends
+
 -Peak Sales: Highest total sales of $205k occurred in 2018, indicating a strong performance year.
 -Lowest Sales: The lowest sales of $78k were observed in 2011, suggesting potential market challenges during that period.
 
-2. Outlet Size Impact
+3. Outlet Size Impact
 -Medium-Sized Outlets: Achieved the highest total sales of $507.90k, indicating they are optimal for revenue generation.
 -Large Outlets: Reported the lowest total sales of $248.99k, suggesting potential inefficiencies or underperformance.
 
-3. Outlet Location Analysis
+4. Outlet Location Analysis
 -Tier 3 Locations: Generated the highest total sales of $472.13k, reflecting a strong market presence and potentially favorable conditions.
 -Tier 1 Locations: Had the lowest total sales of $336.40k, indicating possible market challenges or less effective strategies.
 
-4. Outlet Type Performance
+5. Outlet Type Performance
 Supermarket Type 1: Recorded the highest total sales of $787.55k, indicating strong performance and high item visibility.
 Supermarket Type 3: Achieved the lowest total sales of $130.71k, which might reflect issues with visibility or market positioning.  
 6. Sales by Fat Content
